@@ -25,8 +25,8 @@
 
 <table>
   <tr>
-    <td><img src="./spatial_reasoning_radar.png" width="400"/></td>
-    <td><img src="./model_average_bar.png" width="400"/></td>
+    <td><img src="profile/spatial_reasoning_radar.png" width="400"/></td>
+    <td><img src="profile/model_average_bar.png" width="400"/></td>
   </tr>
 </table>
 
