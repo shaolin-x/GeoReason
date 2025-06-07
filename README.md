@@ -23,12 +23,12 @@
 </p> -->
 
 
-<table>
-  <tr>
-    <td><img src="profile/spatial_reasoning_radar.png" width="400"/></td>
-    <td><img src="profile/model_average_bar.png" width="400"/></td>
-  </tr>
-</table>
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="profile/spatial_reasoning_radar.png" style="max-width: 400px; height: auto;" />
+  <img src="profile/model_average_bar.png" style="max-width: 500px; height: auto;" />
+</div>
+
+
 
 
 ## 📢 Updates
@@ -53,11 +53,13 @@ We show that LLMs exhibit distinct patterns in geospatial reasoning: they show t
 and tend to rely on predefined numerical knowledge when han-
 dling distance-related queries. By focusing on qualitative spatial understanding across both simple and compositional queries, our benchmark provides a holistic and interpretable framework for evaluating the geospatial reasoning abilities of foundation models.
 
-| Formalism   | Formal Concepts   | Predicates                        | Concepts                                                                                          | Values                                                                                       |
-|-------------|------------------|-----------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Topological | RCC8             | Polygon-Polygon                   | DC, EC, PO, EQ, TPP, NTPP, TPPI, NTPPI                                                            | disjoint, touch, overlap, equal, covered by, within, cover, contain                         |
-| Directional | Cardinal Direction | Point-Point                     | N, E, S, W, NE, SE, SW, NW                                                                         | North, East, South, West, Northeast, Southeast, Southwest, Northwest                         |
-| Distance    | Qualitative       | Point-Point, Point-Polygon        | near, far                                                                                          | nearest, farthest                                                                            |
+| Formalism   | Concepts           | Predicates                | Spatial Concepts                                | Values                                                            |
+|-------------|--------------------|----------------------------|--------------------------------------------------|-------------------------------------------------------------------|
+| Topological | RCC8               | Polygon-Polygon            | DC, EC, PO, EQ, TPP, NTPP, TPPI, NTPPI           | disjoint, touch, overlap, equal, covered by, within, cover, contain |
+| Directional | Cardinal Direction | Point-Point                | N, E, S, W, NE, SE, SW, NW                       | North, East, South, West, Northeast, Southeast, Southwest, Northwest |
+| Distance    | Qualitative        | Point-Point, Point-Polygon | near, far                                       | nearest, farthest                                                 |
+
+
 
 
 
