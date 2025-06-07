@@ -23,10 +23,8 @@
 </p> -->
 
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="profile/spatial_reasoning_radar.png" style="max-width: 400px; height: auto;" />
-  <img src="profile/model_average_bar.png" style="max-width: 500px; height: auto;" />
-</div>
+  <img src="profile/main_results.png" style="width: auto; height: auto;" />
+
 
 
 
@@ -145,12 +143,5 @@ DeepSeek-Reasoner, Claude-Sonnet-4, and Llama-3.3-70B. The models are evaluated 
 ## 📝 Citation
 
 **BibTeX**:
-```
-@article{dihan2024mapeval,
-  title={MapEval: A Map-Based Evaluation of Geo-Spatial Reasoning in Foundation Models},
-  author={Dihan, Mahir Labib and Hassan, Md Tanvir and Parvez, Md Tanvir and Hasan, Md Hasebul and Alam, Md Almash and Cheema, Muhammad Aamir and Ali, Mohammed Eunus and Parvez, Md Rizwan},
-  journal={arXiv preprint arXiv:2501.00316},
-  year={2024}
-}
-```
 
+COMING SOON...
