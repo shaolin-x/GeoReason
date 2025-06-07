@@ -61,7 +61,7 @@ dling distance-related queries. By focusing on qualitative spatial understanding
 
 
 
-## Dataset Summary
+## 🗺️ Dataset Summary
 GeoReason consists of **1,346 **queries: **601** in **GeoReason-T1** and
 **745** in **GeoReason-T2**. To ensure broad coverage and meaningful spatial diversity, we
 focus on three well-structured U.S. geographies: national parks
@@ -71,7 +71,7 @@ reproducible data. These regions are popular, publicly documented, and easily vi
 <img src="./map_with_labels.png" width="700" />
 
 
-## Benchmarking
+## 🏆 Benchmarking
 
 We evaluate 8 variations of 5 LLMs in our experiments: GPT-4.1,
 GPT-O3-Mini, Gemini-2.5-Pro, Gemini-2.5-Flash, DeepSeek-Chat,
