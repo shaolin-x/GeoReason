@@ -68,7 +68,7 @@ focus on three well-structured U.S. geographies: national parks
 (points), states (polygons), and time zones (polygons). Our selection of dataset ensures the benchmark is grounded in authoritative,
 reproducible data. These regions are popular, publicly documented, and easily visualizable, making them ideal for LLM evaluation. Compared to existing benchmarks that tend to focus on smaller areas like a certain city or states, our GeoReason includes 1,346 question-answering instances spanning a diverse set of reasoning tasks, covers real-world U.S. geographic entities, including 63 national parks, all 50 states and one federal district, and 6 major time zones—covering the full U.S. spatial extent. Our data is sourced from the U.S. Census Bureau, U.S. Department of Transportation, and Wikipedia.
 
-<img src="./map_with_labels.png" width="700" />
+<img src="profile/map_with_labels.png" width="700" />
 
 
 ## 🏆 Benchmarking
