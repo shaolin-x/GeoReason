@@ -62,7 +62,7 @@ dling distance-related queries. By focusing on qualitative spatial understanding
 
 
 ## 🗺️ Dataset Summary
-GeoReason consists of **1,346 **queries: **601** in **GeoReason-T1** and
+GeoReason consists of **1,346** queries: **601** in **GeoReason-T1** and
 **745** in **GeoReason-T2**. To ensure broad coverage and meaningful spatial diversity, we
 focus on three well-structured U.S. geographies: national parks
 (points), states (polygons), and time zones (polygons). Our selection of dataset ensures the benchmark is grounded in authoritative,
