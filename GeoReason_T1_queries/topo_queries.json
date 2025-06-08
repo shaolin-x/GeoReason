@@ -1,0 +1,3361 @@
+
+  {
+    "query":"How is Minnesota state spatially related to Eastern Time Zone area?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Minnesota state spatially related to Central Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Minnesota state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Minnesota state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Minnesota state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Minnesota state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Montana state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Montana state spatially related to Central Time Zone area?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Montana state spatially related to Mountain Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Montana state spatially related to Pacific Time Zone area?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Montana state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Montana state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is North Dakota state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is North Dakota state spatially related to Central Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is North Dakota state spatially related to Mountain Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is North Dakota state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is North Dakota state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is North Dakota state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Idaho state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Idaho state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Idaho state spatially related to Mountain Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Idaho state spatially related to Pacific Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Idaho state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Idaho state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Washington state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Washington state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Washington state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Washington state spatially related to Pacific Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Washington state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Washington state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Arizona state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Arizona state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Arizona state spatially related to Mountain Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Arizona state spatially related to Pacific Time Zone area?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Arizona state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Arizona state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is California state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is California state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is California state spatially related to Mountain Time Zone area?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is California state spatially related to Pacific Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is California state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is California state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Colorado state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Colorado state spatially related to Central Time Zone area?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Colorado state spatially related to Mountain Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Colorado state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Colorado state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Colorado state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Nevada state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Nevada state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Nevada state spatially related to Mountain Time Zone area?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Nevada state spatially related to Pacific Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Nevada state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Nevada state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New Mexico state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New Mexico state spatially related to Central Time Zone area?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is New Mexico state spatially related to Mountain Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is New Mexico state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New Mexico state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New Mexico state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Oregon state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Oregon state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Oregon state spatially related to Mountain Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Oregon state spatially related to Pacific Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Oregon state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Oregon state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Utah state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Utah state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Utah state spatially related to Mountain Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Utah state spatially related to Pacific Time Zone area?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Utah state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Utah state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Wyoming state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Wyoming state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Wyoming state spatially related to Mountain Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Wyoming state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Wyoming state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Wyoming state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Arkansas state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Arkansas state spatially related to Central Time Zone area?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is Arkansas state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Arkansas state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Arkansas state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Arkansas state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Iowa state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Iowa state spatially related to Central Time Zone area?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is Iowa state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Iowa state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Iowa state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Iowa state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Kansas state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Kansas state spatially related to Central Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Kansas state spatially related to Mountain Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Kansas state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Kansas state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Kansas state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Missouri state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Missouri state spatially related to Central Time Zone area?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is Missouri state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Missouri state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Missouri state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Missouri state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Nebraska state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Nebraska state spatially related to Central Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Nebraska state spatially related to Mountain Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Nebraska state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Nebraska state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Nebraska state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Oklahoma state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Oklahoma state spatially related to Central Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Oklahoma state spatially related to Mountain Time Zone area?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Oklahoma state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Oklahoma state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Oklahoma state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is South Dakota state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is South Dakota state spatially related to Central Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is South Dakota state spatially related to Mountain Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is South Dakota state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is South Dakota state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is South Dakota state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Louisiana state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Louisiana state spatially related to Central Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Louisiana state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Louisiana state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Louisiana state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Louisiana state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Texas state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Texas state spatially related to Central Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Texas state spatially related to Mountain Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Texas state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Texas state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Texas state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Connecticut state spatially related to Eastern Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Connecticut state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Connecticut state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Connecticut state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Connecticut state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Connecticut state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Massachusetts state spatially related to Eastern Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Massachusetts state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Massachusetts state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Massachusetts state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Massachusetts state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Massachusetts state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New Hampshire state spatially related to Eastern Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is New Hampshire state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New Hampshire state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New Hampshire state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New Hampshire state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New Hampshire state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Rhode Island state spatially related to Eastern Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Rhode Island state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Rhode Island state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Rhode Island state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Rhode Island state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Rhode Island state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Vermont state spatially related to Eastern Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Vermont state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Vermont state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Vermont state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Vermont state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Vermont state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alabama state spatially related to Eastern Time Zone area?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Alabama state spatially related to Central Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Alabama state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alabama state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alabama state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alabama state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Florida state spatially related to Eastern Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Florida state spatially related to Central Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Florida state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Florida state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Florida state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Florida state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Georgia state spatially related to Eastern Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Georgia state spatially related to Central Time Zone area?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Georgia state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Georgia state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Georgia state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Georgia state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mississippi state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mississippi state spatially related to Central Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Mississippi state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mississippi state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mississippi state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mississippi state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is South Carolina state spatially related to Eastern Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is South Carolina state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is South Carolina state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is South Carolina state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is South Carolina state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is South Carolina state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Illinois state spatially related to Eastern Time Zone area?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Illinois state spatially related to Central Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Illinois state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Illinois state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Illinois state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Illinois state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Indiana state spatially related to Eastern Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Indiana state spatially related to Central Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Indiana state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Indiana state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Indiana state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Indiana state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Kentucky state spatially related to Eastern Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Kentucky state spatially related to Central Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Kentucky state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Kentucky state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Kentucky state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Kentucky state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is North Carolina state spatially related to Eastern Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is North Carolina state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is North Carolina state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is North Carolina state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is North Carolina state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is North Carolina state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Ohio state spatially related to Eastern Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Ohio state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Ohio state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Ohio state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Ohio state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Ohio state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Tennessee state spatially related to Eastern Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Tennessee state spatially related to Central Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Tennessee state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Tennessee state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Tennessee state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Tennessee state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Virginia state spatially related to Eastern Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Virginia state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Virginia state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Virginia state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Virginia state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Virginia state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Wisconsin state spatially related to Eastern Time Zone area?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Wisconsin state spatially related to Central Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Wisconsin state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Wisconsin state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Wisconsin state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Wisconsin state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is West Virginia state spatially related to Eastern Time Zone area?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is West Virginia state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is West Virginia state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is West Virginia state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is West Virginia state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is West Virginia state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Delaware state spatially related to Eastern Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Delaware state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Delaware state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Delaware state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Delaware state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Delaware state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is District of Columbia state spatially related to Eastern Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is District of Columbia state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is District of Columbia state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is District of Columbia state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is District of Columbia state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is District of Columbia state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Maryland state spatially related to Eastern Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Maryland state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Maryland state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Maryland state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Maryland state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Maryland state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New Jersey state spatially related to Eastern Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is New Jersey state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New Jersey state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New Jersey state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New Jersey state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New Jersey state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New York state spatially related to Eastern Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is New York state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New York state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New York state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New York state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is New York state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pennsylvania state spatially related to Eastern Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Pennsylvania state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pennsylvania state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pennsylvania state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pennsylvania state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pennsylvania state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Maine state spatially related to Eastern Time Zone area?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Maine state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Maine state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Maine state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Maine state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Maine state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Michigan state spatially related to Eastern Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Michigan state spatially related to Central Time Zone area?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Michigan state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Michigan state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Michigan state spatially related to Alaska Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Michigan state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska state spatially related to Eastern Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska state spatially related to Central Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska state spatially related to Mountain Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska state spatially related to Pacific Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska state spatially related to Alaska Time Zone area?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Alaska state spatially related to Hawaii-Aleutian Time Zone area?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Minnesota state?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Montana state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to North Dakota state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Hawaii state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Idaho state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Washington state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Arizona state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to California state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Colorado state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Nevada state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to New Mexico state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Oregon state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Utah state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Wyoming state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Arkansas state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Iowa state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Kansas state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Missouri state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Nebraska state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Oklahoma state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to South Dakota state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Louisiana state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Texas state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Connecticut state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Massachusetts state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to New Hampshire state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Rhode Island state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Vermont state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Alabama state?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Florida state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Georgia state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Mississippi state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to South Carolina state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Illinois state?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Indiana state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Kentucky state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to North Carolina state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Ohio state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Tennessee state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Virginia state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Wisconsin state?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to West Virginia state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Delaware state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to District of Columbia state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Maryland state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to New Jersey state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to New York state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Pennsylvania state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Maine state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Michigan state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Eastern Time Zone Area spatially related to Alaska state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Minnesota state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Montana state?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to North Dakota state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Hawaii state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Idaho state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Washington state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Arizona state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to California state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Colorado state?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Nevada state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to New Mexico state?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Oregon state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Utah state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Wyoming state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Arkansas state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Iowa state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Kansas state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Missouri state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Nebraska state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Oklahoma state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to South Dakota state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Louisiana state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Texas state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Connecticut state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Massachusetts state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to New Hampshire state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Rhode Island state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Vermont state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Alabama state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Florida state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Georgia state?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Mississippi state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to South Carolina state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Illinois state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Indiana state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Kentucky state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to North Carolina state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Ohio state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Tennessee state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Virginia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Wisconsin state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to West Virginia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Delaware state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to District of Columbia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Maryland state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to New Jersey state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to New York state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Pennsylvania state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Maine state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Michigan state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Central Time Zone Area spatially related to Alaska state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Minnesota state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Montana state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to North Dakota state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Hawaii state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Idaho state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Washington state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Arizona state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to California state?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Colorado state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Nevada state?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to New Mexico state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Oregon state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Utah state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Wyoming state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Arkansas state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Iowa state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Kansas state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Missouri state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Nebraska state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Oklahoma state?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to South Dakota state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Louisiana state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Texas state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Connecticut state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Massachusetts state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to New Hampshire state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Rhode Island state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Vermont state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Alabama state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Florida state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Georgia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Mississippi state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to South Carolina state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Illinois state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Indiana state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Kentucky state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to North Carolina state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Ohio state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Tennessee state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Virginia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Wisconsin state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to West Virginia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Delaware state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to District of Columbia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Maryland state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to New Jersey state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to New York state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Pennsylvania state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Maine state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Michigan state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Mountain Time Zone Area spatially related to Alaska state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Minnesota state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Montana state?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to North Dakota state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Hawaii state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Idaho state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Washington state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Arizona state?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to California state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Colorado state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Nevada state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to New Mexico state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Oregon state?",
+    "answer":"overlaps"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Utah state?",
+    "answer":"touch"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Wyoming state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Arkansas state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Iowa state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Kansas state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Missouri state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Nebraska state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Oklahoma state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to South Dakota state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Louisiana state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Texas state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Connecticut state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Massachusetts state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to New Hampshire state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Rhode Island state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Vermont state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Alabama state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Florida state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Georgia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Mississippi state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to South Carolina state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Illinois state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Indiana state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Kentucky state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to North Carolina state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Ohio state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Tennessee state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Virginia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Wisconsin state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to West Virginia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Delaware state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to District of Columbia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Maryland state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to New Jersey state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to New York state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Pennsylvania state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Maine state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Michigan state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Pacific Time Zone Area spatially related to Alaska state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Minnesota state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Montana state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to North Dakota state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Hawaii state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Idaho state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Washington state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Arizona state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to California state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Colorado state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Nevada state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to New Mexico state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Oregon state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Utah state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Wyoming state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Arkansas state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Iowa state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Kansas state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Missouri state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Nebraska state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Oklahoma state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to South Dakota state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Louisiana state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Texas state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Connecticut state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Massachusetts state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to New Hampshire state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Rhode Island state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Vermont state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Alabama state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Florida state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Georgia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Mississippi state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to South Carolina state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Illinois state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Indiana state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Kentucky state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to North Carolina state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Ohio state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Tennessee state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Virginia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Wisconsin state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to West Virginia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Delaware state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to District of Columbia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Maryland state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to New Jersey state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to New York state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Pennsylvania state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Maine state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Michigan state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Alaska Time Zone Area spatially related to Alaska state?",
+    "answer":"covered by"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Minnesota state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Montana state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to North Dakota state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Hawaii state?",
+    "answer":"covers"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Idaho state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Washington state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Arizona state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to California state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Colorado state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Nevada state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to New Mexico state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Oregon state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Utah state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Wyoming state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Arkansas state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Iowa state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Kansas state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Missouri state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Nebraska state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Oklahoma state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to South Dakota state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Louisiana state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Texas state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Connecticut state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Massachusetts state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to New Hampshire state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Rhode Island state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Vermont state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Alabama state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Florida state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Georgia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Mississippi state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to South Carolina state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Illinois state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Indiana state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Kentucky state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to North Carolina state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Ohio state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Tennessee state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Virginia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Wisconsin state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to West Virginia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Delaware state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to District of Columbia state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Maryland state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to New Jersey state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to New York state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Pennsylvania state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Maine state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Michigan state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Hawaii-Aleutian Time Zone Area spatially related to Alaska state?",
+    "answer":"disjoint"
+  }
+
+  {
+    "query":"How is Arkansas state spatially related to the combined area of Eastern and Central Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Eastern and Central Time Zonesspatially related to Arkansas state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Arkansas state spatially related to its state area that falls into the combined area of Eastern and Central Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is Iowa state spatially related to the combined area of Eastern and Central Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Eastern and Central Time Zonesspatially related to Iowa state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Iowa state spatially related to its state area that falls into the combined area of Eastern and Central Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is Missouri state spatially related to the combined area of Eastern and Central Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Eastern and Central Time Zonesspatially related to Missouri state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Missouri state spatially related to its state area that falls into the combined area of Eastern and Central Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is West Virginia state spatially related to the combined area of Eastern and Central Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Eastern and Central Time Zonesspatially related to West Virginia state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is West Virginia state spatially related to its state area that falls into the combined area of Eastern and Central Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is West Virginia state spatially related to the combined area of Eastern and Mountain Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Eastern and Mountain Time Zonesspatially related to West Virginia state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is West Virginia state spatially related to its state area that falls into the combined area of Eastern and Mountain Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is West Virginia state spatially related to the combined area of Eastern and Pacific Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Eastern and Pacific Time Zonesspatially related to West Virginia state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is West Virginia state spatially related to its state area that falls into the combined area of Eastern and Pacific Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is West Virginia state spatially related to the combined area of Eastern and Alaska Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Eastern and Alaska Time Zonesspatially related to West Virginia state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is West Virginia state spatially related to its state area that falls into the combined area of Eastern and Alaska Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is West Virginia state spatially related to the combined area of Eastern and Hawaii-Aleutian Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Eastern and Hawaii-Aleutian Time Zonesspatially related to West Virginia state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is West Virginia state spatially related to its state area that falls into the combined area of Eastern and Hawaii-Aleutian Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is Arkansas state spatially related to the combined area of Central and Mountain Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Central and Mountain Time Zonesspatially related to Arkansas state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Arkansas state spatially related to its state area that falls into the combined area of Central and Mountain Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is Iowa state spatially related to the combined area of Central and Mountain Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Central and Mountain Time Zonesspatially related to Iowa state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Iowa state spatially related to its state area that falls into the combined area of Central and Mountain Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is Missouri state spatially related to the combined area of Central and Mountain Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Central and Mountain Time Zonesspatially related to Missouri state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Missouri state spatially related to its state area that falls into the combined area of Central and Mountain Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is Arkansas state spatially related to the combined area of Central and Pacific Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Central and Pacific Time Zonesspatially related to Arkansas state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Arkansas state spatially related to its state area that falls into the combined area of Central and Pacific Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is Iowa state spatially related to the combined area of Central and Pacific Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Central and Pacific Time Zonesspatially related to Iowa state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Iowa state spatially related to its state area that falls into the combined area of Central and Pacific Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is Missouri state spatially related to the combined area of Central and Pacific Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Central and Pacific Time Zonesspatially related to Missouri state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Missouri state spatially related to its state area that falls into the combined area of Central and Pacific Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is Arkansas state spatially related to the combined area of Central and Alaska Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Central and Alaska Time Zonesspatially related to Arkansas state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Arkansas state spatially related to its state area that falls into the combined area of Central and Alaska Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is Iowa state spatially related to the combined area of Central and Alaska Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Central and Alaska Time Zonesspatially related to Iowa state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Iowa state spatially related to its state area that falls into the combined area of Central and Alaska Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is Missouri state spatially related to the combined area of Central and Alaska Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Central and Alaska Time Zonesspatially related to Missouri state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Missouri state spatially related to its state area that falls into the combined area of Central and Alaska Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is Arkansas state spatially related to the combined area of Central and Hawaii-Aleutian Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Central and Hawaii-Aleutian Time Zonesspatially related to Arkansas state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Arkansas state spatially related to its state area that falls into the combined area of Central and Hawaii-Aleutian Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is Iowa state spatially related to the combined area of Central and Hawaii-Aleutian Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Central and Hawaii-Aleutian Time Zonesspatially related to Iowa state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Iowa state spatially related to its state area that falls into the combined area of Central and Hawaii-Aleutian Time Zones?",
+    "answer":"equals"
+  }
+
+  {
+    "query":"How is Missouri state spatially related to the combined area of Central and Hawaii-Aleutian Time Zones?",
+    "answer":"within"
+  }
+
+  {
+    "query":"How is the combined area of Central and Hawaii-Aleutian Time Zonesspatially related to Missouri state?",
+    "answer":"contains"
+  }
+
+  {
+    "query":"How is Missouri state spatially related to its state area that falls into the combined area of Central and Hawaii-Aleutian Time Zones?",
+    "answer":"equals"
+  }
+
